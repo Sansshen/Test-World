@@ -3,7 +3,7 @@
   "children":
   [
     {
-      "name":"网联汽车" ,
+      "name":"智能网联汽车" ,
       "children":
       [
         {"name":"车载智能计算平台" },
